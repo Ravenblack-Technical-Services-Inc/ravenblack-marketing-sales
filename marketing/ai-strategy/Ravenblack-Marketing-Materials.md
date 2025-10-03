@@ -62,7 +62,19 @@ Content Server 2.0.2+ includes Aviator AI for context search - but you need expe
    - "Smart widget development using both Aviator context AND expert patterns"
    - "Native API integration with Content Server's AI infrastructure"
 
-4. **Performance Suite**
+4. **Ravenblack Multi-Agent Scheduler**
+   - "Eliminate automation bottlenecks with parallel processing"
+   - "300-500% performance improvement through intelligent task distribution"
+
+5. **Ravenblack Sub-Tag Loader (RBSL)**
+   - "Zero-downtime WebReports deployments with instant, thread-safe loading"
+   - "Eliminate costly maintenance windows forever"
+
+6. **Ravenblack Sub-Tag Suite (RBSS)**
+   - "30+ professional sub-tags reduce development time by 50-60%"
+   - "Production-tested components with proven reliability"
+
+7. **Performance Suite**
    - "Predictive optimization that enhances Content Server's built-in monitoring"
    - "Expert intelligence layer for Content Server's existing analytics"
 
@@ -128,14 +140,18 @@ Content Server 2.0.2+ includes Aviator AI for context search - but you need expe
 - Conversation history and learning
 - Real-time performance analytics
 
-### Slide 7-10: Product Suite Integration
-**One slide per major product**:
-- RB Application Analyzer ("Build with Confidence")  
-- RB Dynamic Widgets ("Code Like an Expert")
-- Multi-Agent Scheduler ("What Used to Take a Team")
-- Performance Suite ("Zero Surprises, Maximum Performance")
+### Slide 7-12: Complete Product & Service Portfolio
+**Product Suite** (Slides 7-9):
+- **Slide 7**: Core AI Platform - Seaside.AI ("Expert Intelligence Layer")
+- **Slide 8**: Development Tools - RBSL & RBSS ("Zero-Downtime Excellence") 
+- **Slide 9**: Performance & Analysis - Multi-Agent Scheduler & Performance Suite ("Enterprise-Scale Operations")
 
-### Slide 11: ROI & Business Impact
+**Service Portfolio** (Slides 10-12):
+- **Slide 10**: Content Intelligence Solution Development ("Full-Lifecycle Expertise")
+- **Slide 11**: Content Intelligence Audit & Review ("Risk Mitigation & Optimization")
+- **Slide 12**: Training & Support Services ("Knowledge Transfer & Continuity")
+
+### Slide 13: ROI & Business Impact
 **Header**: "Your Content Server Investment, Supercharged"
 **Metrics**:
 - 60-80% development time reduction

@@ -96,6 +96,25 @@ marketing/
 - **Partnership-Friendly**: Strengthens Content Server ecosystem
 - **Investment Amplification**: Maximizes existing Content Server and AI investments
 
+## Complete Product & Service Portfolio
+
+### AI Enhancement Platform
+- **Seaside.AI Platform**: RAG-powered AI assistant with expert intelligence layer
+- **RB Application Analyzer**: AI-enhanced codebase analysis with predictive insights
+- **RB Dynamic Widgets**: Intelligent SmartView widget development and management
+
+### Performance & Automation Products
+- **Ravenblack Multi-Agent Scheduler**: Eliminate bottlenecks with parallel processing (300-500% performance improvement)
+- **Ravenblack Sub-Tag Loader (RBSL)**: Zero-downtime WebReports deployments with instant loading
+- **Ravenblack Sub-Tag Suite (RBSS)**: 30+ professional sub-tags reducing development time by 50-60%
+- **Performance Suite**: AI-driven continuous monitoring with intelligent recommendations
+
+### Professional Services
+- **Content Intelligence Solution Development**: Full-lifecycle custom application development with CSApp packaging
+- **Content Intelligence Audit & Review**: Optimization analysis, migration preparation, and security issue resolution
+- **Content Intelligence Enablement & Training**: Accelerated onboarding and skill development programs
+- **Content Intelligence Support**: Ongoing maintenance, bug resolution, and knowledge continuity services
+
 ## Success Metrics
 
 ### Business Targets
